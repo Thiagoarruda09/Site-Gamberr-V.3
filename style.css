@@ -8,6 +8,12 @@
     src: url(fontes/A_Font_with_Serifs.ttf);
 }
 
+@font-face {
+    font-family: 'normal' ;
+    src: url(fontes/coolvetica\ condensed\ rg.otf);
+}
+
+article{font-family: 'normal';}
 
 body {
     margin: 0px;
